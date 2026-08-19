@@ -1,24 +1,21 @@
 ## Gabriel Vasconcelos
 
-**Desenvolvedor Full-Stack — sistemas críticos para saúde e operação hospitalar.**
-Software em produção em hospitais e empresas: do prontuário e imagem médica à operação do dia a dia.
+Desenvolvedor full-stack com foco em saúde. Construo sistemas que rodam em produção de verdade em hospitais e empresas. Nada de protótipo de portfólio.
 
-### O que eu construo
-- **Health-tech** — PACS/DICOM (integração com DCM4CHEE), captura e envio de exames de endoscopia e colonoscopia
-- **Operação hospitalar** — passagem e troca de plantão multi-setor, gestão de patrimônio multiempresa
-- **SaaS multiempresa** — manutenção, equipamentos, POPs e contratos
-- **Infra & identidade** — monitoramento de uptime, tooling de Active Directory, integrações
+### No que trabalho
+- **Operação hospitalar:** passagem e troca de plantão multi-setor, patrimônio multiempresa
+- **Automação e integrações:** integração com GLPI, ponto eletrônico via API e coleta de dados entre sistemas
+- **SaaS multiempresa:** manutenção, equipamentos, POPs e contratos
+- **Infra e identidade:** monitoramento de uptime, ferramentas de Active Directory, integrações
 
 ### Stack
-**Front** — TypeScript · React · Next.js
-**Back** — Node · NestJS · Fastify · Rust · C# · Python
-**Dados & Infra** — PostgreSQL · Docker · Socket.IO
+TypeScript, React e Next.js no front. Node, NestJS e Fastify no back, mais Rust, C# e Python quando o problema pede. PostgreSQL, Docker e Socket.IO no resto.
 
-### Alguns sistemas *(a maioria em repositórios privados)*
-- **Portal NOC** — monitoramento de infraestrutura, identidades (AD) e redes; em produção em 3 ambientes
-- **PACS hospitalar** — UI moderna em pt-BR sobre DICOM/DCM4CHEE
-- **Passagem de plantão** — substitui o processo em papel; tempo real (Socket.IO) + integração GLPI
-- **PROGNOS** — SaaS multiempresa de gestão de manutenção (Node + Fastify)
+### Alguns sistemas *(quase tudo em repo privado)*
+- **Portal NOC:** monitoramento de infra, identidades (AD) e redes, rodando em 3 ambientes
+- **PACS hospitalar:** uma UI decente em pt-BR por cima do DICOM/DCM4CHEE
+- **Passagem de plantão:** acabou com o processo em papel; tempo real via Socket.IO, integrado ao GLPI
+- **PROGNOS:** SaaS multiempresa de gestão de manutenção (Node + Fastify)
 
 ### Contato
-[LinkedIn](https://www.linkedin.com/in/gabriel-vasconcelos-79857a197/) · gabrielvasdev@gmail.com
+[LinkedIn](https://www.linkedin.com/in/gabriel-vasconcelos-79857a197/) ou gabrielvasdev@gmail.com
