@@ -1,24 +1,24 @@
-## Sejam bem-vindos ao meu perfil !! sou desenvolvedor junior.
-<div align="center">
-  <a href="https://github.com/gabriel-vas-dev">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-vas-dev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-vas-dev&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Php" height="30" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-</div>
-  
-  ##
- 
-<div> 
+## Gabriel Vasconcelos
 
-  <a href = "mailto:30091997g@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-vasconcelos-79857a197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/gabriel-vas-dev/gabriel-vas-dev/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+**Desenvolvedor Full-Stack — sistemas críticos para saúde e operação hospitalar.**
+Software em produção em hospitais e empresas: do prontuário e imagem médica à operação do dia a dia.
+
+### O que eu construo
+- **Health-tech** — PACS/DICOM (integração com DCM4CHEE), captura e envio de exames de endoscopia e colonoscopia
+- **Operação hospitalar** — passagem e troca de plantão multi-setor, gestão de patrimônio multiempresa
+- **SaaS multiempresa** — manutenção, equipamentos, POPs e contratos
+- **Infra & identidade** — monitoramento de uptime, tooling de Active Directory, integrações
+
+### Stack
+**Front** — TypeScript · React · Next.js
+**Back** — Node · NestJS · Fastify · Rust · C# · Python
+**Dados & Infra** — PostgreSQL · Docker · Socket.IO
+
+### Alguns sistemas *(a maioria em repositórios privados)*
+- **Portal NOC** — monitoramento de infraestrutura, identidades (AD) e redes; em produção em 3 ambientes
+- **PACS hospitalar** — UI moderna em pt-BR sobre DICOM/DCM4CHEE
+- **Passagem de plantão** — substitui o processo em papel; tempo real (Socket.IO) + integração GLPI
+- **PROGNOS** — SaaS multiempresa de gestão de manutenção (Node + Fastify)
+
+### Contato
+[LinkedIn](https://www.linkedin.com/in/gabriel-vasconcelos-79857a197/) · gabrielvasdev@gmail.com
